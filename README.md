@@ -18,8 +18,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application for managin
 ## Installation
 
 1. Clone the repository to your local machine.
-2. Import the included `database.sql` file into your MySQL database to create the necessary table for user data.
-3. Configure the database connection settings in the `config.php` file.
+2. Configure the database connection settings in the `db.php` file.
 
 ## Usage
 
