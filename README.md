@@ -37,6 +37,15 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application for managin
 - `delete.php`: Handles the deletion of a user from the database.
 - `db.php`: Contains the database connection settings.
 
+## Tech stack
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
 ## Security
 
 - This is a simple example app and does not implement advanced security measures. It's recommended to add further security enhancements before deploying it to a production environment.
